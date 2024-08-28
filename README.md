@@ -1,8 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Aykut
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&color=F7F7F7&duration=4000&lines=Hello+There!+I'm+Aykut+" />
-</h3>
 
 ---
 
@@ -39,3 +36,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zereaykut&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zereaykut&theme=dracula)
+
+
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=F7F7F7&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
