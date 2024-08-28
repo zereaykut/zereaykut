@@ -5,6 +5,6 @@
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zereaykut&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zereaykut&theme=dracula&background=000000)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zereaykut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zereaykut&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
