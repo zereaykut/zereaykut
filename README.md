@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Aykut
 
-## I'm a Data Scientist, Meteorological Engineer, and Linux Enthusiast who likes to play around with Computers and stuff
+## I'm a Data Scientist, Meteorological Engineer, and Linux Enthusiast
 
 ---
 
